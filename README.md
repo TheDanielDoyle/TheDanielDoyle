@@ -5,7 +5,8 @@
 <table>
   <tbody>
     <tr>
-      <td>🔭 I’m currently working on</td>
+      <td>💼</td>
+      <td>I’m currently working on</td>
       <td>
         - <a href="https://spring.io/">Java SpringBoot</a></br>
         - <a href="https://www.mongodb.com/">MongoDB</a></br> 
@@ -15,7 +16,8 @@
       <td rowspan="3"><img src="https://github.com/TheDanielDoyle/TheDanielDoyle/blob/main/images/developer.gif" alt="Dan Doyle"  style="width: 80%;"></td>
     </tr>
     <tr>
-      <td>🌱 I’m currently learning</td>
+      <td>💡</td>
+      <td>I’m currently learning</td>
       <td>
         - <a href="https://blazor.net/">Blazor</a></br>
         - <a href="https://github.com/dotnet/maui">MAUI</a></br>
@@ -23,7 +25,8 @@
         - <a href="https://core.telegram.org/">Telegram API</a></td>
     </tr>
     <tr>
-      <td>📫 How to reach me</td>
+      <td>📣</td>
+      <td>How to reach me</td>
       <td><a href="https://github.com/TheDanielDoyle/TheDanielDoyle/discussions/new/choose">Open a discussion</a></td>
     </tr>
   </tbody>

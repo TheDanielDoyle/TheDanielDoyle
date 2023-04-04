@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-<table align="center">
+<table>
   <tbody>
     <tr>
       <td>🔭 I’m currently working on</td>

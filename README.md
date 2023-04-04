@@ -12,6 +12,7 @@
         - AWS <a href="https://aws.amazon.com/sns/">SNS</a>/<a href="https://aws.amazon.com/sqs/">SQS</a></br>
         - <a href="https://localstack.cloud/">LocalStack</a>
       </td>
+      <td rowspan="3"><img src="https://github.com/TheDanielDoyle/TheDanielDoyle/blob/main/images/developer.gif" alt="Dan Doyle"  style="width: 80%;"></td>
     </tr>
     <tr>
       <td>🌱 I’m currently learning</td>
@@ -30,9 +31,7 @@
 
 ## I'm a fan of 💪
 
-<p stylke="display: inline-block;">
-  <img alt="" src="" />
-  
+<p stylke="display: inline-block;"> 
   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img alt="Blazor" src="https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white" />
@@ -50,7 +49,3 @@
   <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
-
-<p align="center">
-  <img src="https://github.com/TheDanielDoyle/TheDanielDoyle/blob/main/images/developer.gif" alt="Dan Doyle" style="width: 70%;">
-</p>

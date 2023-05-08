@@ -21,7 +21,6 @@
       <td>
         - <a href="https://blazor.net/">Blazor</a></br>
         - <a href="https://github.com/dotnet/maui">MAUI</a></br>
-        - <a href="https://pulsar.apache.org/">Apache Pulsar</br>
         - <a href="https://www.postgresql.org/">PostgreSQL</a></br>
         - <a href="https://core.telegram.org/">Telegram API</a>
       </td>

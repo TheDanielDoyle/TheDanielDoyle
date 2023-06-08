@@ -13,7 +13,6 @@
         - AWS <a href="https://aws.amazon.com/sns/">SNS</a>/<a href="https://aws.amazon.com/sqs/">SQS</a></br>
         - <a href="https://localstack.cloud/">LocalStack</a>
       </td>
-      <td rowspan="3"><img src="https://github.com/TheDanielDoyle/TheDanielDoyle/blob/main/images/developer.gif" alt="Dan Doyle"  style="width: 80%;"></td>
     </tr>
     <tr>
       <td>💡</td>
@@ -32,6 +31,10 @@
     </tr>
   </tbody>
 </table>
+
+<p align="center">
+<img src="https://github.com/TheDanielDoyle/TheDanielDoyle/blob/main/images/developer.gif" alt="Dan Doyle">
+</p>
 
 ## I'm a fan of 💪
 

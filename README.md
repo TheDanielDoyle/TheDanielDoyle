@@ -8,7 +8,7 @@
       <td>💼</td>
       <td>I’m currently working on</td>
       <td>
-        - <a href="https://www.scala-lang.org/">Scalka</a></br>
+        - <a href="https://www.scala-lang.org/">Scala</a></br>
         - <a href="https://www.mongodb.com/">MongoDB</a></br>
       </td>
     </tr>

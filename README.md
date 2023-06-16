@@ -8,10 +8,8 @@
       <td>💼</td>
       <td>I’m currently working on</td>
       <td>
-        - <a href="https://spring.io/">Java SpringBoot</a></br>
-        - <a href="https://www.mongodb.com/">MongoDB</a></br> 
-        - AWS <a href="https://aws.amazon.com/sns/">SNS</a>/<a href="https://aws.amazon.com/sqs/">SQS</a></br>
-        - <a href="https://localstack.cloud/">LocalStack</a>
+        - <a href="https://www.scala-lang.org/">Scalka</a></br>
+        - <a href="https://www.mongodb.com/">MongoDB</a></br>
       </td>
     </tr>
     <tr>
@@ -19,7 +17,6 @@
       <td>I’m currently learning</td>
       <td>
         - <a href="https://blazor.net/">Blazor</a></br>
-        - <a href="https://github.com/dotnet/maui">MAUI</a></br>
         - <a href="https://www.postgresql.org/">PostgreSQL</a></br>
         - <a href="https://core.telegram.org/">Telegram API</a>
       </td>

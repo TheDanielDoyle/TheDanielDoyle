@@ -36,6 +36,7 @@
 ## I'm a fan of 💪
 
 <p style="display: inline-block;">
+  <a href="https://apple.com/"><img alt="Apple" src="https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white" /></a>
   <a href="https://aws.amazon.com/"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
   <a href="https://azure.microsoft.com/"><img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" /></a>
   <a href="https://blazor.net/"><img alt="Blazor" src="https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white" /></a>
@@ -46,6 +47,7 @@
   <a href="https://www.mozilla.org/en-GB/firefox/"><img alt="Mozilla Firefox" src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" /></a>
   <a href="https://www.java.com/"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=OpenJDK&logoColor=white" /></a>
   <a href="https://www.jetbrains.com/idea/"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" /></a>
+  <a href="https://microsoft.com"><img alt="Microsoft" src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
   <a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
   <a href="https://octopus.com/"><img alt="Octopus Deploy" src="https://img.shields.io/badge/octopus%20deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white" /></a>
   <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></a>

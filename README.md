@@ -17,8 +17,7 @@
       <td>I’m currently learning</td>
       <td>
         - <a href="https://blazor.net/">Blazor</a></br>
-        - <a href="https://www.postgresql.org/">PostgreSQL</a></br>
-        - <a href="https://core.telegram.org/">Telegram API</a>
+        - <a href="https://www.postgresql.org/">PostgreSQL</a>
       </td>
     </tr>
     <tr>

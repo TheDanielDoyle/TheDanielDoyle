@@ -17,13 +17,22 @@
       <td>I’m currently learning</td>
       <td>
         - <a href="https://blazor.net/">Blazor</a></br>
-        - <a href="https://www.postgresql.org/">PostgreSQL</a>
+        - <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/">AZ-900 exam</a>
+      </td>
+    </tr>
+    <tr>
+      <td>📖</td>
+      <td>I’m currently reading</td>
+      <td>
+        - <a href="https://www.unshakeable.com/">Unshakeable, by Tony Robbins</a></br>
       </td>
     </tr>
     <tr>
       <td>📣</td>
       <td>How to reach me</td>
-      <td><a href="https://github.com/TheDanielDoyle/TheDanielDoyle/discussions/new/choose">Open a discussion</a></td>
+      <td>
+        - <a href="https://github.com/TheDanielDoyle/TheDanielDoyle/discussions/new/choose">Open a discussion</a>
+      </td>
     </tr>
   </tbody>
 </table>

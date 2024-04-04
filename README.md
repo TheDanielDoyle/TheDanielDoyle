@@ -25,7 +25,7 @@
       <td>📖</td>
       <td>I’m currently reading</td>
       <td>
-        - <a href="https://www.unshakeable.com/">Unshakeable, by Tony Robbins</a></br>
+        - <a href="https://www.simonandschuster.co.uk/books/Money-Master-the-Game/Tony-Robbins/9781471148620">Money Master the Game, by Tony Robbins</a></br>
       </td>
     </tr>
     <tr>

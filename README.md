@@ -25,14 +25,14 @@
       <td>📖</td>
       <td>I’m currently reading</td>
       <td>
-        - <a href="https://www.simonandschuster.co.uk/books/Money-Master-the-Game/Tony-Robbins/9781471148620">Money Master the Game, by Tony Robbins</a></br>
+        - <a href="https://echelonfront.com/books/dichotomy-of-leadership/">The Dichotomy of Leadership, by Jocko Willink</a></br>
       </td>
     </tr>
     <tr>
       <td>📣</td>
       <td>How to reach me</td>
       <td>
-        - <a href="https://github.com/TheDanielDoyle/TheDanielDoyle/discussions/new/choose">Open a discussion</a>
+        - <a href="https://echelonfront.com/books/dichotomy-of-leadership/">The Dichotomy of Leadership, Jocko Willink</a>
       </td>
     </tr>
   </tbody>

@@ -32,7 +32,7 @@
       <td>📣</td>
       <td>How to reach me</td>
       <td>
-        - <a href="https://echelonfront.com/books/dichotomy-of-leadership/">The Dichotomy of Leadership, Jocko Willink</a>
+        - <a href="https://github.com/TheDanielDoyle/TheDanielDoyle/discussions/new/choose">Open a discussion</a>
       </td>
     </tr>
   </tbody>

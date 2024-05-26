@@ -1,4 +1,4 @@
-# Dan Doyle
+![image](https://github.com/TheDanielDoyle/TheDanielDoyle/assets/3020488/109c4693-e8c3-4101-a4e7-ad929d7081a1)# Dan Doyle
 
 ## Hi there 👋
 
@@ -25,7 +25,7 @@
       <td>📖</td>
       <td>I’m currently reading</td>
       <td>
-        - <a href="https://echelonfront.com/books/dichotomy-of-leadership/">The Dichotomy of Leadership, by Jocko Willink</a></br>
+        - <a href="https://www.penguinrandomhouse.com/books/730881/the-algebra-of-wealth-by-scott-galloway/">The Algebra of Wealth, Scott Galloway</a></br>
       </td>
     </tr>
     <tr>

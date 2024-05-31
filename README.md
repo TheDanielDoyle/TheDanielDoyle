@@ -25,7 +25,7 @@
       <td>📖</td>
       <td>I’m currently reading</td>
       <td>
-        - <a href="https://www.penguinrandomhouse.com/books/730881/the-algebra-of-wealth-by-scott-galloway/">The Algebra of Wealth, Scott Galloway</a></br>
+        - <a href="https://calnewport.com/writing/">So Good They Can't Ignore You</a></br>
       </td>
     </tr>
     <tr>

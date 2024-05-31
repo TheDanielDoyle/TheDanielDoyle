@@ -1,5 +1,3 @@
-![image](https://github.com/TheDanielDoyle/TheDanielDoyle/assets/3020488/109c4693-e8c3-4101-a4e7-ad929d7081a1)# Dan Doyle
-
 ## Hi there! 👋
 
 <table>

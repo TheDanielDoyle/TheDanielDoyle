@@ -25,7 +25,7 @@
       <td>📖</td>
       <td>I’m currently reading</td>
       <td>
-        - <a href="https://calnewport.com/writing/">So Good They Can't Ignore You</a></br>
+        - <a href="https://www.evypoumpouras.com/book">Becoming Bulletproof</a></br>
       </td>
     </tr>
     <tr>

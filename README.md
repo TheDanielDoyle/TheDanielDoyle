@@ -19,7 +19,6 @@
       <td>
         - <a href="https://blazor.net/">Blazor</a></br>
         - <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/">AZ-900 exam</a></br>
-        - <a href="https://learn.microsoft.com/en-us/collections/o1njfe825p602p">GitHub Foundations exam</a>
       </td>
     </tr>
     <tr>

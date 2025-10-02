@@ -8,12 +8,12 @@
       <td>💼</td>
       <td>I’m currently working on</td>
       <td>
-        - <a href="https://www.scala-lang.org/">Scala</a></br>
-        - <a href="https://www.playframework.com/">Play Framework</a></br>
-        - <a href="https://www.mongodb.com/">MongoDB</a></br>
+        - <a href="https://kotlinlang.org/">Kotlin</a></br>
+        - <a href="https://spring.io/projects/spring-boot/">Spring Boot</a></br>
+        - <a href="https://www.postgresql.org/">PostgreSQL</a></br>
       </td>
     </tr>
-    <tr>
+<!---   <tr>
       <td>💡</td>
       <td>I’m currently learning</td>
       <td>
@@ -27,7 +27,7 @@
       <td>
         - <a href="https://www.evypoumpouras.com/book">Becoming Bulletproof</a></br>
       </td>
-    </tr>
+    </tr>--->
     <tr>
       <td>📣</td>
       <td>How to reach me</td>

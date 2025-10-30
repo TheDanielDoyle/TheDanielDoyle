@@ -8,7 +8,7 @@
       <td>💼</td>
       <td>I’m currently working on</td>
       <td>
-        - <a href="https://kotlinlang.org/">Kotlin</a></br>
+        - <a href="https://java.com">Java</a></br>
         - <a href="https://spring.io/projects/spring-boot/">Spring Boot</a></br>
         - <a href="https://www.postgresql.org/">PostgreSQL</a></br>
       </td>

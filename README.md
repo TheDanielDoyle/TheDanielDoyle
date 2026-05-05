@@ -9,18 +9,17 @@
       <td>I’m currently working on</td>
       <td>
         - <a href="https://docker.com/">Docker</a></br>
-        - <a href="https://java.com/">Java</a></br>
-        - <a href="https://openbao.org/">OpenBao</a></br>
-        - <a href="https://postgresql.org/">PostgreSQL</a></br>
-        - <a href="https://spring.io/projects/spring-boot/">Spring Boot</a>
+        - <a href="https://www.scala-lang.org/">Scala</a></br>
+        - <a href="https://www.mongodb.com/">MongoDB</a></br>
+        - <a href="https://www.playframework.com/">Play Framework</a>
       </td>
     </tr>
 <!---   <tr>
       <td>💡</td>
       <td>I’m currently learning</td>
       <td>
-        - <a href="https://blazor.net/">Blazor</a></br>
-        - <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/">AZ-900 exam</a></br>
+        - <a href="https://opencode.ai/">OpenCode</a></br>
+        - <a href="https://learn.microsoft.com/en-us/credentials/certifications/github-foundations/">GH-900 exam</a></br>
       </td>
     </tr>
     <tr>
